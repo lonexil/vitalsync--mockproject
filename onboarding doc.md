@@ -61,3 +61,13 @@ Productivity mode
 
  Daily checkins typically takes les than  a minute to complete
 
+### step 4: Track your progress
+Vitalsync provides a dashboard where you can monitor your performance 
+
+The dashboard displays :
+
+- Completed task 
+- Displayed streak
+- Weekly consistency score 
+- Reward blance 
+- Behavioural insight 
